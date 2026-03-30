@@ -94,7 +94,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-16 flex flex-col items-center justify-between gap-4 border-t border-border/20 pt-8 md:flex-row">
           <p className="text-xs text-dim">
-            &copy; {new Date().getFullYear()} YCD Studio. All rights reserved.
+            &copy; {new Date().getFullYear()} Dayra Tool. All rights reserved.
           </p>
           <p className="text-xs text-dim">
             Powered by{" "}
