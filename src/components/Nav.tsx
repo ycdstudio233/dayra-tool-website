@@ -41,7 +41,7 @@ export default function Nav() {
               <path d="m19.07 4.93-1.41 1.41" />
             </svg>
           </div>
-          <span className="text-lg font-semibold text-light">Daylight</span>
+          <span className="text-lg font-semibold text-light">Dayra Tool</span>
         </a>
 
         {/* Desktop links */}

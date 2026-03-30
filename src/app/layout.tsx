@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Daylight | LEED Daylighting Compliance Made Simple",
+  title: "Dayra Tool | LEED Daylighting Compliance Made Simple",
   description:
     "Spatial Daylight Autonomy (SDA) and Annual Sunlight Exposure (ASE) analysis for LEED v4.1 EQc7. Plugins for Rhino, Revit, and a standalone app.",
   keywords: [

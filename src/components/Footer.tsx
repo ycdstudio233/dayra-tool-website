@@ -30,7 +30,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="text-lg font-semibold text-light">
-                Daylight
+                Dayra Tool
               </span>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-dim">

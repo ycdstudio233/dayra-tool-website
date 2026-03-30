@@ -11,7 +11,7 @@ const workflows = [
     badgeColor: "bg-accent/10 text-accent border-accent/20",
     steps: [
       "Organize geometry on Room, Window, and Shade layers",
-      'Type "Daylight" in the command line to open the panel',
+      'Type "DayraRun" in the command line to open the panel',
       "Hit Analyze \u2014 rooms, windows, and shading are auto-detected",
       "View SDA/ASE heatmaps directly in the viewport",
       "Use Design Tools to add overhangs and light shelves",
@@ -27,7 +27,7 @@ const workflows = [
     badgeColor: "bg-accent/10 text-accent border-accent/20",
     steps: [
       "Select rooms in Revit (or run on all rooms)",
-      'Click "Run Analysis" from the Daylight ribbon tab',
+      'Click "Run Analysis" from the Dayra ribbon tab',
       "Hosted windows are extracted automatically from room boundaries",
       "Results write back as shared parameters (DA_SDA_Percent, DA_ASE_Percent)",
       "Rooms are color-coded by performance in the active view",
