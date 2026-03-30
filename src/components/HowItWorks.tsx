@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import ToolDemo from "./ToolDemo";
 
 const steps = [
   {
@@ -88,6 +89,9 @@ export default function HowItWorks() {
             ))}
           </div>
         </div>
+
+        {/* Interactive demo */}
+        <ToolDemo />
       </div>
     </section>
   );
