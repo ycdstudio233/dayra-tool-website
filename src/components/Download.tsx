@@ -36,7 +36,7 @@ const tools = [
     requirement: "Ladybug Tools",
     status: "available",
     description:
-      "JSON spec input, full simulation pipeline, results dashboard, CSV export.",
+      "Import OBJ/STL models, 3D viewport with orbit/pan/zoom, visual room tagging, color-coded results overlay, CSV export.",
     downloadUrl: "https://github.com/ycdstudio233/dayra-tool-website/releases/download/v1.0-beta/DayraTool-Standalone-v1.0-beta.zip",
     downloadLabel: "Download .exe",
   },
