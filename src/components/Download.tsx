@@ -13,7 +13,7 @@ const tools = [
     status: "available",
     description:
       "Layer-based geometry detection, viewport heatmaps, design tools, PDF/CSV export.",
-    downloadUrl: "#",
+    downloadUrl: "https://github.com/ycdstudio233/dayra-tool-website/releases/download/v1.0-beta/DayraTool-Rhino8-v1.0-beta.zip",
     downloadLabel: "Download .rhp",
   },
   {
@@ -25,7 +25,7 @@ const tools = [
     status: "available",
     description:
       "Room & window extraction, shared parameters, color overrides, schedule-ready data.",
-    downloadUrl: "#",
+    downloadUrl: "https://github.com/ycdstudio233/dayra-tool-website/releases/download/v1.0-beta/DayraTool-Revit2025-v1.0-beta.zip",
     downloadLabel: "Download .addin",
   },
   {
@@ -37,7 +37,7 @@ const tools = [
     status: "available",
     description:
       "JSON spec input, full simulation pipeline, results dashboard, CSV export.",
-    downloadUrl: "#",
+    downloadUrl: "https://github.com/ycdstudio233/dayra-tool-website/releases/download/v1.0-beta/DayraTool-Standalone-v1.0-beta.zip",
     downloadLabel: "Download .exe",
   },
   {
